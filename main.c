@@ -1,4 +1,4 @@
-// main.cpp
+// main.c
 #include <stdio.h>
 #include "sum.h"
 
